@@ -1,6 +1,3 @@
-Certainly! Here's a professional README draft for your dataset analysis project based on those refined questions:
-
----
 
 # Order Dataset Analysis
 
